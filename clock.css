@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+.clock{
+    height: 90vh;
+    width: 100%;
+    display: flex;
+    justify-content: center; /*these three properties work properly when set height and width value*/
+    align-items: center;
+    color: white;
+    font-size: 50px;
+    font-weight: 500;
+}
